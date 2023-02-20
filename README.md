@@ -1,4 +1,4 @@
-[![andy-holmes-LUpDjlJv4_c-unsplash](https://user-images.githubusercontent.com/124515587/220033691-446d97a2-b335-4eff-9f8a-6f0f1e3a74ce.jpg)]
+![greg-rakozy-0LU4vO5iFpM-unsplash](https://user-images.githubusercontent.com/124515587/220034701-3a370492-9cfc-4d93-a188-56ed295072ff.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Mickey</h1>
